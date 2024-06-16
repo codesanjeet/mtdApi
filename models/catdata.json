@@ -1,0 +1,314 @@
+{
+    "setId": 1,
+    "VARC": [
+      {
+    "id": 1,
+    "question_para":
+    
+     "<p><strong>Read the passage carefully and answer the questions that follow:</strong></p><p>Humans often appear to react irrationally in the face of disease, as the COVID-19 pandemic has shown. Many cling to religion or become superstitious. Others become fatalistic. In times of plague and trauma, we moderns seek to protect ourselves with prayers, charms, sigils and spells as much as any medieval peasant. That a surgical mask is hygienic doesn’t make it any less of a magical symbol.<br></p><p>Despite the often blood-soaked history of the use of the term ‘magic’, we must remember that Western history is filled with thinkers who have defended its honour as good natural science - a tried-and-true technology for harnessing interactions between minds and bodies, human and otherwise. And their empirical claims were never tested more than during the centuries of plague. During the previous millennium, the biggest boom in the practice of magic coincided with the Black Death in the mid-14th century. It was the deadliest pandemic in human history, killing as much as half the population of Asia, Africa and Europe - around 200 million souls.&nbsp;</p><p>The Islamic world...was hit particularly hard by the plague. There, it helped give rise to the ‘occult-scientific revolution’, where various occult sciences - astrology, alchemy, kabbalah, geomancy, dream interpretation - became an important basis for empire more than ever before. The ability to predict the future with divination, then change it with magic, was of obvious political, military and economic interest. Western Europe saw a parallel upsurge of occultism - much of it from Arabic sources - which we now call the Renaissance. The scientific revolution that followed continued the same trend: historians now admit that saints of science such as Johannes Kepler, Francis Bacon, Robert Boyle and Isaac Newton were likewise raving occultists.</p><p>Medicine, too, was often classified and practised as an occult science among premodern Muslim, Jewish and Christian physicians. Many considered it alchemy’s sister, both sciences being predicated on the harnessing of cosmic correspondences and natural sympathies to restore elemental equilibrium in the human body - the definition of health. Techniques for life-extension were also central to the alchemical quest. The sweeping physical and sociopolitical imbalances wrought by plague were accordingly answered by an upsurge in medicine, occult and otherwise.</p><p>Why did, and do, most practitioners of spiritual medicine see it as a perfectly rational response?&nbsp;Leaving aside the possible agency of spirits and other nonhuman entities, one factor is certain: the placebo effect.&nbsp;It refers to the clinical effectiveness of inert substitutes in healing disease, as long as the patient believes them to be a real drug.&nbsp;Under conditions of mass trauma, combined with sincere belief and mental focus, the effectiveness of the placebo often goes up sharply, with patients able to&nbsp;change their physiology at will.&nbsp;As it happens, creating extreme psychophysical conditions is also a prerequisite to the practice of many occult arts: fasting, prayer, isolation, a vegetarian diet, ritual cleanliness and constant vigil, for weeks, months or even years on end.&nbsp;</p><p>By any premodern definition, then, the placebo effect is simply a form of magic.&nbsp;Whether you believe in the authority of celestial spirits or of doctors in white lab coats, the effect is similar: astonishing reversals (or inducements) of disease can sometimes be achieved through the power of belief alone - especially when ritually, traumatically harnessed.<br></p>"
+  
+  ,
+  
+  
+    "question_text": "Which of the following has NOT been mentioned as one of the purposes of magic/occult sciences in the passage?",
+    "option1": "People often sought refuge in magic to protect themselves from diseases.",
+    "option2": "Magic was a rational response to treatments involving extreme psychophysical conditions.",
+    "option3": "The ability of magic to alter the portended future made it a desirable tool for certain political, military or economic ends.",
+    "option4": "Certain occult practices were in pursuit of mechanisms to restore health or to extend life.",
+    "correct_option": "Option 1",
+    "solution_text": "Sample solution text for question 1"
+  
+  
+  }
+  ,
+      
+  
+  {
+  "id": 3,
+  "question_text": "What does the author mean by the line ‘I cannot resist the temptation to give a slight sketch of him, such as he has met my eye’?",
+  "option1": "The author wants to sketch a painting of John Bull different from the ones that are available.",
+  "option2": "The author finds it hard to resist his temptation to describe John Bull even though he has not met him in person.",
+  "option3": "The author finds it tempting to present his very own characterization of John Bull.",
+  "option4": "Though the author has not met John Bull, he wants to sketch as if he has met him in person.",
+  "correct_option": "Option 4",
+  "solution_text": "The correct interpretation is that although the author has not personally met John Bull, they feel compelled to describe him as if they have."
+  },
+      {
+        "id": 3,
+        "question_text": "Sample question 3 for VARC?",
+        "option1": "Option 1",
+        "option2": "Option 2",
+        "option3": "Option 3",
+        "option4": "Option 4",
+        "correct_option": "Option 1",
+        "solution_text": "Sample solution text for question 3"
+      }
+    ],
+    "DILR": [
+     {
+      "id": 1,
+      "question_text": "Which two candidates can belong to the same department?",
+      "option1": "Prof. Pakrasi and Prof. Samuel",
+      "option2": "Prof. Pakrasi and Prof. Qureshi",
+      "option3": "Prof. Qureshi and Prof. Ramaswamy",
+      "option4": "Prof. Ramaswamy and Prof. Samuel",
+      "correct_option": "Prof. Pakrasi and Prof. Samuel"
+  },
+  {
+      "id": 2,
+      "question_text": "Which of the following can be the number of votes that Prof. Qureshi received from a single department?",
+      "option1": "8",
+      "option2": "7",
+      "option3": "9",
+      "option4": "6",
+      "correct_option": "7"
+  },
+  {
+      "id": 3,
+      "question_text": "If Prof. Samuel belongs to B&H, which of the following statements is/are true?",
+      "option1": "Both statements A and B",
+      "option2": "Only statement B",
+      "option3": "Only statement A",
+      "option4": "Neither statement A nor statement B",
+      "correct_option": "Only statement B"
+  },
+  {
+      "id": 4,
+      "question_text": "What best can be concluded about the candidate from O&Q?",
+      "option1": "It was either Prof. Pakrasi or Prof. Qureshi.",
+      "option2": "It was Prof. Samuel.",
+      "option3": "It was Prof. Ramaswamy.",
+      "option4": "It was either Prof. Ramaswamy or Prof. Samuel.",
+      "correct_option": "It was either Prof. Ramaswamy or Prof. Samuel."
+  },{
+      "id": 5,
+      "question_text": "Which of the following statements is/are true?",
+      "option1": "Only statement B",
+      "option2": "Only statement A",
+      "option3": "Both statements A and B",
+      "option4": "Neither statement A nor statement B",
+      "correct_option": "Both statements A and B"
+  }
+    ],
+    "QUANT": [
+     {
+    "id": 1,
+    "question_text": "If x and y are real numbers such that x<sup>2</sup> + (x - 2y - 1)<sup>2</sup> = -4y(x + y), then the value of x - 2y is...",
+    "option_field":true,
+    "option1": "0",
+    "option2": "1",
+    "option3": "2",
+    "option4": "-1",
+    "correct_option": "Option 2",
+    "solution_text": "To solve the equation x<sup>2</sup> + (x - 2y - 1)<sup>2</sup> = -4y(x + y), we expand and simplify to find that x - 2y = 1."
+  }
+  ,
+  {
+    "id": 2,
+    "question_text": "Let n be the least positive integer such that 168 is a factor of 1134<sup>n</sup>. If m is the least positive integer such that 1134<sup>n</sup> is a factor of 168<sup>m</sup>, then m + n equals...",
+    "option_field":true,
+    "option1": "20",
+    "option2": "11",
+    "option3": "68",
+    "option4": "10",
+    "correct_option": "Option 4",
+    "solution_text": "To solve the problem, we need to find the values of n and m such that 168 is a factor of 1134<sup>n</sup> and 1134<sup>n</sup> is a factor of 168<sup>m</sup> respectively. The least positive integer n such that 168 is a factor of 1134<sup>n</sup> is n = 3. Then, we find the least positive integer m such that 1134<sup>3</sup> is a factor of 168<sup>m</sup>, which is m = 3. Therefore, m + n = 3 + 3 = 6."
+  }
+  
+  ,
+  {
+      "id": 3,
+      "question_text": "If √(5x + 9) + √(5x - 9) = 3(2 + 2√2), then √(10x + 9) is equal to?",
+      "option_field":true,
+      "option1": "45√",
+      "option2": "27√",
+      "option3": "33√",
+      "option4": "37√",
+      "correct_option": "37√",
+      "solution_text": "After solving the equation, we find that √(10x + 9) = 37√."
+  },
+  {
+    "id": 4,
+    "question_text": "If x and y are positive real numbers such that log<sub>x</sub>(x<sup>2</sup> + 12) = 4 and 3log<sub>y</sub>x = 1, then x + y equals...",
+    "option_field":true,
+    "option1": "20",
+    "option2": "11",
+    "option3": "68",
+    "option4": "10",
+    "correct_option": "Option 2",
+    "solution_text": "Given the equations log<sub>x</sub>(x<sup>2</sup> + 12) = 4 and 3log<sub>y</sub>x = 1, we solve these to find the values of x and y. Solving the first equation, we have x<sup>2</sup> + 12 = x<sup>4</sup>, which gives x = 2. For the second equation, 3log<sub>y</sub>x = 1, we find y = 4. Therefore, x + y = 2 + 4 = 6."
+},
+{
+    "id": 5,
+    "question_text": "The number of integer solutions of equation 2|x|(x<sup>2</sup> + 1) = 5x<sup>2</sup> is...",
+    "option_field": false,
+    "solution_text": "To solve the equation 2|x|(x<sup>2</sup> + 1) = 5x<sup>2</sup>, we consider the cases for x being positive, negative, or zero. For x = 0, the equation holds true. For x ≠ 0, we divide both sides by x<sup>2</sup> (assuming x ≠ 0) to get 2|x|(1 + 1/x<sup>2</sup>) = 5. Analyzing the equation for positive and negative x separately, we find the integer solutions are x = 0 and x = ±2. Hence, there are 3 integer solutions.",
+    "correct_option":"3"
+},
+{
+    "id": 6,
+    "question_text": "Let α and β be the two distinct roots of the equation 2x<sup>2</sup> − 6x + k = 0, such that (α + β) and αβ are the distinct roots of the equation x<sup>2</sup> + px + p = 0. Then, the value of 8(k − p) is...",
+    "option_field": false,
+    "solution_text": "To solve this problem, let's find the roots of both equations: <br><br><strong>1. Roots of 2x<sup>2</sup> − 6x + k = 0:</strong> <br>Using the quadratic formula, we find the roots α and β: <br>α, β = (6 ± √(36 - 8k)) / 4 = (6 ± √(8(4.5 - k))) / 4 = (6 ± √(2(9 - 2k))) / 2 <br>So, α + β = 3 and αβ = k/2. <br><br><strong>2. Relationship from x<sup>2</sup> + px + p = 0:</strong> <br>Given α + β = 3 and αβ = k/2, we use the identity (α + β)<sup>2</sup> - 2αβ = α<sup>2</sup> + β<sup>2</sup> to find p: <br>(3)<sup>2</sup> - 2 * (k/2) + p = 0 <br>9 - k + p = 0 <br>p = k - 9. <br><br><strong>Calculating 8(k - p):</strong> <br>8(k - p) = 8(k - (k - 9)) = 8 * 9 = 72. <br><br>Therefore, the value of 8(k − p) is <strong>72</strong>.",
+     "correct_option":"72"
+},
+{
+    "id": 7,
+    "question_text": "The equation x<sup>3</sup> + (2r + 1)x<sup>2</sup> + (4r - 1)x + 2 = 0 has -2 as one of the roots. If the other two roots are real, then the minimum possible non-negative integer value of r is...",
+    "option_field": false,
+    "solution_text": "Given that -2 is a root of the equation x<sup>3</sup> + (2r + 1)x<sup>2</sup> + (4r - 1)x + 2 = 0, we can factor out (x + 2) from the equation. Dividing the polynomial by (x + 2), we get a quadratic polynomial. For the other two roots to be real, the discriminant of this quadratic polynomial must be non-negative. Calculating the discriminant and setting it greater than or equal to zero gives us the condition to find the minimum value of r. Solving this condition, we find that r = 1 is the minimum non-negative integer value.",
+    "correct_option": 1
+},
+{
+    "id": 8,
+    "question_text": "Brishti went on an 8-hour trip in a car. Before the trip, the car had travelled a total of x km till then, where x is a whole number and is palindromic, i.e., x remains unchanged when its digits are reversed. At the end of the trip, the car had travelled a total of 26862 km till then, this number again being palindromic. If Brishti never drove at more than 110 km/h, then the greatest possible average speed at which she drove during the trip, in km/h, was...",
+    "option_field": true,
+    "option1": "90",
+    "option2": "100",
+    "option3": "80",
+    "option4": "110",
+    "correct_option": "Option 4",
+    "solution_text": "Let's find the possible values of x that are palindromic and satisfy the conditions given. The number at the end of the trip is 26862, which is palindromic. The greatest possible average speed during the 8-hour trip can be calculated as: 26862 - x = distance travelled during the trip. The maximum average speed is obtained when Brishti drives the car at the maximum allowed speed of 110 km/h. Therefore, (26862 - x) / 8 = 110. Solving for x gives us x = 26862 - 880 = 25982. Therefore, the greatest possible average speed is 110 km/h."
+},
+{
+    "id": 9,
+    "question_text": "In an examination, the average marks of 4 girls and 6 boys is 24. Each of the girls has the same marks while each of the boys has the same marks. If the marks of any girl is at most double the marks of any boy, but not less than the marks of any boy, then the number of possible distinct integer values of the total marks of 2 girls and 6 boys is...",
+    "option_field": true,
+    "option1": "19",
+    "option2": "21",
+    "option3": "20",
+    "option4": "22",
+    "correct_option": "Option 3",
+    "solution_text": "Let the marks of each girl be g and the marks of each boy be b. Given that the average marks of 4 girls and 6 boys is 24, we have the equation 4g + 6b = 144. Also, g ≤ 2b and g ≥ b. By solving these equations and inequalities, we find possible values of g and b. The number of distinct integer values for the total marks of 2 girls and 6 boys, which is 2g + 6b, can then be determined. After calculation, the number of possible distinct integer values is 20."
+},
+{
+    "id": 10,
+    "question_text": "A mixture P is formed by removing a certain amount of coffee from a coffee jar and replacing the same amount with cocoa powder. The same amount is again removed from mixture P and replaced with the same amount of cocoa powder to form a new mixture Q. If the ratio of coffee and cocoa in the mixture Q is 16 : 9, then the ratio of cocoa in mixture P to that in mixture Q is...",
+    "option_field": true,
+    "option1": "4 : 9",
+    "option2": "1 : 3",
+    "option3": "5 : 9",
+    "option4": "1 : 2",
+    "correct_option": "Option 4",
+    "solution_text": "Let the initial amount of coffee in mixture P be C and the initial amount of cocoa be K. After the first operation, the amount of coffee becomes C - x and the amount of cocoa becomes K + x, where x is the amount removed and added. After the second operation to form mixture Q, the ratio of coffee to cocoa is given as 16 : 9. Solving the equations formed from the ratios, we find the ratio of cocoa in mixture P to mixture Q to be 1 : 2."
+},
+{
+    "id": 11,
+    "question_text": "The minor angle between the hour hand and minutes hand of a clock was observed at 8:48 am. The minimum duration, in minutes, after 8:48 am when this angle increases by 50% is...",
+    "option_field": true,
+    "option1": "3611",
+    "option2": "2411",
+    "option3": "2",
+    "option4": "4",
+    "correct_option": "Option 4",
+    "solution_text": "At 8:48 am, the angle between the hour hand and the minute hand is calculated. To increase this angle by 50%, we find the time duration required for the minute hand to move to achieve this increase. After calculating the time, it is found that the minimum duration required, in minutes, after 8:48 am when the angle increases by 50% is 4 minutes."
+},
+{
+    "id": 12,
+    "question_text": "The salaries of three friends Sita, Gita, and Mita are initially in the ratio 5 : 6 : 7, respectively. In the first year, they get salary hikes of 20%, 25%, and 20%, respectively. In the second year, Sita and Mita get salary hikes of 40% and 25%, respectively, and the salary of Gita becomes equal to the mean salary of the three friends. The salary hike of Gita in the second year is...",
+    "option_field": true,
+    "option1": "26%",
+    "option2": "28%",
+    "option3": "25%",
+    "option4": "30%",
+    "correct_option": "Option 2",
+    "solution_text": "Let the initial salaries of Sita, Gita, and Mita be 5x, 6x, and 7x, respectively. After the first year, their salaries become 1.2 * 5x, 1.25 * 6x, and 1.2 * 7x, respectively. In the second year, Sita's salary becomes 1.4 * 1.2 * 5x, Mita's salary becomes 1.25 * 1.2 * 7x, and Gita's salary becomes equal to the mean salary of the three friends. Setting up the equation for Gita's salary equal to the mean salary, we solve for x and find Gita's new salary. The salary hike for Gita in the second year is calculated accordingly, and it is found to be 28%."
+},
+{
+    "id": 13,
+    "question_text": "Gita sells two objects A and B at the same price such that she makes a profit of 20% on object A and a loss of 10% on object B. If she increases the selling price such that objects A and B are still sold at an equal price and a profit of 10% is made on object B, then the profit made on object A will be nearest to...",
+    "option_field": true,
+    "option1": "42%",
+    "option2": "47%",
+    "option3": "45%",
+    "option4": "49%",
+    "correct_option": "Option 3",
+    "solution_text": "Let the cost price of both objects A and B be C. Initially, Gita sells A and B at the same price, making a 20% profit on A and a 10% loss on B. To find the selling price, we set up equations based on the given conditions. After increasing the selling price such that both objects are sold at the same price and B makes a 10% profit, we calculate the new selling price and find the profit on A. The profit made on object A will be nearest to 45%."
+},
+{
+    "id": 14,
+    "question_text": "Anil invests Rs. 22000 for 6 years at 4% interest compounded half-yearly. Sunil invests for 5 years and reinvests the amount for 1 year at 10% simple interest. If their amounts at 6 years are equal, Sunil's initial investment was Rs. 22000.",
+    "option_field": false,
+    "solution_text": "Let's calculate the amount received by Anil after 6 years with compound interest compounded half-yearly: Anil's amount = Rs. 22000 * (1 + 0.02)^12 ≈ Rs. 27891.28. Now, let's calculate the amount received by Sunil: Sunil invests Rs. 22000 for 5 years and then reinvests the amount received (Rs. 27891.28) at the end of 5 years for 1 year at 10% simple interest: Amount after 5 years ≈ Rs. 27891.28. Amount after 1 year of simple interest ≈ Rs. 30680.408. Since the amounts received by both Anil and Sunil at the end of 6 years are equal, Sunil's initial investment was Rs. 22000.",
+    "correct_option": 22000
+},
+
+    {
+        "id": 15,
+        "question_text": "The amount of job that Amal, Sunil, and Kamal can individually do in a day are in harmonic progression. Kamal takes twice as much time as Amal to do the same amount of job. If Amal and Sunil work for 4 days and 9 days, respectively, Kamal needs to work for 16 days to finish the remaining job. Then the number of days Sunil will take to finish the job working alone is...",
+        "option_field": false,
+        "solution_text": "Let the amounts of job Amal, Sunil, and Kamal can do in one day be (1/a), (1/b), (1/c) respectively, where a, b, c are in harmonic progression. Given that Kamal takes twice as much time as Amal, we have c = 2a. Let the total job be J. Amal works for 4 days, so he completes (4/a) of the job. Sunil works for 9 days, so he completes (9/b) of the job. Kamal works for 16 days to complete the remaining job, thus completing (16/c) of the job. Therefore, (4/a) + (9/b) + (16/c) = 1. Substituting c = 2a into the equation gives a relationship between a and b. Solving this equation and calculating b, we find that Sunil will take 6 days to finish the job working alone.",
+        "correct_option": 6
+    },
+    {
+        "id": 16,
+        "question_text": "Arvind travels from town A to town B, and Surbhi from town B to town A, both starting at the same time along the same route. After meeting each other, Arvind takes 6 hours to reach town B while Surbhi takes 24 hours to reach town A. If Arvind travelled at a speed of 54 km/h, then the distance, in km, between town A and town B is...",
+        "option_field": false,
+        "solution_text": "Let the distance between town A and town B be d km. <br> Arvind's speed = 54 km/h. <br> Let the time taken by Arvind to meet Surbhi be t hours. <br> Distance covered by Arvind in t hours = 54t km. <br> Since both Arvind and Surbhi travel towards each other until they meet, the total distance they cover together equals the distance between the towns: <br> d = 54t + 54t = 108t km. <br> Given: Arvind takes 6 hours to reach town B after meeting Surbhi. <br> Therefore, t = 6 hours (since Arvind's time to reach town B is given). <br> Substitute t = 6 into the equation d = 108t: <br> d = 108 * 6 = 648 km. <br> Therefore, the distance between town A and town B is d = 648 km.",
+        "correct_option": 648
+    },
+    {
+        "id": 17,
+        "question_text": "A quadrilateral ABCD is inscribed in a circle such that AB : CD = 2 : 1 and BC : AD = 5 : 4. If AC and BD intersect at the point E, then AE : CE equals...",
+        "option_field": true,
+        "option1": "1 : 2",
+        "option2": "5 : 8",
+        "option3": "8 : 5",
+        "option4": "2 : 1",
+        "correct_option": "Option 3",
+        "solution_text": "Given AB : CD = 2 : 1 and BC : AD = 5 : 4 for the inscribed quadrilateral ABCD, we can use the properties of intersecting chords in a circle to find AE : EC. Using the intersecting chords theorem, we calculate the ratios and find that AE : CE = 8 : 5."
+    },
+    {
+        "id": 18,
+        "question_text": "Let C be the circle x<sup>2</sup> + y<sup>2</sup> + 4x - 6y - 3 = 0 and L be the locus of the point of intersection of a pair of tangents to C with the angle between the two tangents equal to 60°. Then, the point at which L touches the line x = 6 is...",
+        "option_field": true,
+        "option1": "(6,4)",
+        "option2": "(6,8)",
+        "option3": "(6,3)",
+        "option4": "(6,6)",
+        "correct_option": "Option 1",
+        "solution_text": "To determine the point where L touches the line x = 6, we consider the circle x<sup>2</sup> + y<sup>2</sup> + 4x - 6y - 3 = 0. By finding the center and radius of the circle, and knowing that the locus L consists of points of intersection of tangents to C with a 60° angle between them, we calculate the correct point of intersection. The correct point where L touches the line x = 6 is (6,4)."
+    },
+    {
+        "id": 19,
+        "question_text": "In a right-angled triangle ABC, the altitude AB is 5 cm, and the base BC is 12 cm. P and Q are two points on BC such that the areas of triangles ABP, ABQ, and ABC are in arithmetic progression. If the area of triangle ABC is 1.5 times the area of triangle ABP, the length of PQ, in cm, is...",
+        "option_field": false,
+        "solution_text": "Let the area of triangle ABP be A1, triangle ABQ be A2, and triangle ABC be A3. Given that A3 = 1.5 * A1. Since A1, A2, A3 are in arithmetic progression, we have A2 - A1 = A3 - A2. Using the formula for the area of a triangle (1/2) * base * height, we can express A1, A2, and A3 in terms of x and 12 - x, where x is the length of BP. By solving the equation, we find that the length of PQ is 3 cm.",
+        "correct_option": 3
+    },
+    {
+        "id": 20,
+        "question_text": "A lab experiment measures the number of organisms at 8 am every day. Starting with 2 organisms on the first day, the number of organisms on any day is equal to 3 more than twice the number on the previous day. If the number of organisms on the nth day exceeds one million, then the lowest possible value of n is...",
+        "option_field": false,
+        "solution_text": "To solve this problem, we define a sequence a_n where a_1 = 2 (initial count of organisms) and a_{n+1} = 2 * a_n + 3. We calculate the sequence until a_n > 10^6. After computing, we find that a_9 = 1277 is the first term that exceeds 10^6. Therefore, the lowest possible value of n such that the number of organisms on the nth day exceeds one million is 9.",
+        "correct_option": 9
+    },
+    {
+        "id": 21,
+        "question_text": "The number of all natural numbers up to 1000 with non-repeating digits is",
+        "option1": "585",
+        "option2": "504",
+        "option3": "648",
+        "option4": "738",
+        "correct_option": "Option 4",
+        "solution_text": "To find the number of natural numbers up to 1000 with non-repeating digits, we calculate: 9 (single-digit) + 81 (two-digit) + 648 (three-digit) = 738."
+      },
+      {
+        "id": 22,
+        "question_text": "For some positive and distinct real numbers x, y, and z, if sqrt(y) + sqrt(z) is the arithmetic mean of sqrt(x) + sqrt(z) and sqrt(x) + sqrt(y), then the relationship which will always hold true is",
+        "option1": "sqrt(x), sqrt(z), and sqrt(y) are in arithmetic progression",
+        "option2": "sqrt(x), sqrt(z), and sqrt(y) are in arithmetic progression",
+        "option3": "y, x, and z are in arithmetic progression",
+        "option4": "x, y, and z are in arithmetic progression",
+        "correct_option": "Option 4",
+        "solution_text": "If sqrt(y) + sqrt(z) is the arithmetic mean of sqrt(x) + sqrt(z) and sqrt(x) + sqrt(y), then x, y, and z are in arithmetic progression."
+      }
+    
+    
+]
+
+
+    
+  }
+  
+  

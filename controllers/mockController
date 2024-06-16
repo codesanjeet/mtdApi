@@ -1,0 +1,124 @@
+const Catset = require("./../models/catModel");
+
+exports.createCatset = async (req, res) => {
+  try {
+    const newCatset = await Catset.create(req.body);
+    res.status(201).json({
+      status: "success",
+      data: {
+        catset: newCatset,
+      },
+    });
+  } catch (err) {
+    res.status(400).json({
+      status: "fail",
+      message: err.message,
+    });
+  }
+};
+
+exports.getCatsetBySetId = async (req, res) => {
+  try {
+    const set = await Catset.findOne({ setId: req.params.setId });
+
+    if (!set) {
+      return res.status(404).json({
+        status: "fail",
+        message: "No catset found with that setId",
+      });
+    }
+
+    res.status(200).json({
+      status: "success",
+      data: {
+        catset: set,
+      },
+    });
+  } catch (err) {
+    res.status(500).json({
+      status: "error",
+      message: "Server error. Failed to get catset.",
+      error: err.message,
+    });
+  }
+};
+
+exports.getVARCBySetId = async (req, res) => {
+  try {
+    const set = await Catset.findOne({
+      setId: req.params.setId,
+    });
+
+    if (!set || !set.VARC) {
+      return res.status(404).json({
+        status: "fail",
+        message: "No VARC question found with that setId and questionId",
+      });
+    }
+
+    res.status(200).json({
+      status: "success",
+      data: {
+        VARC: set.VARC,
+      },
+    });
+  } catch (err) {
+    res.status(500).json({
+      status: "error",
+      message: "Server error. Failed to get VARC question.",
+      error: err.message,
+    });
+  }
+};
+
+exports.getDILRBySetId = async (req, res) => {
+  try {
+    const set = await Catset.findOne({ setId: req.params.setId });
+
+    if (!set || !set.DILR) {
+      return res.status(404).json({
+        status: "fail",
+        message: "No DILR question found with that setId and questionId",
+      });
+    }
+
+    res.status(200).json({
+      status: "success",
+      data: {
+        DILR: set.DILR,
+      },
+    });
+  } catch (err) {
+    res.status(500).json({
+      status: "error",
+      message: "Server error. Failed to get DILR.",
+      error: err.message,
+    });
+  }
+};
+
+exports.getQUANTBySetId = async (req, res) => {
+  try {
+    const set = await Catset.findOne({ setId: req.params.setId });
+
+    if (!set || !set.QUANT) {
+      return res.status(404).json({
+        status: "fail",
+        message: "No QUANT question found with that setId and questionId",
+      });
+    }
+
+    res.status(200).json({
+      status: "success",
+      data: {
+        QUANT: set.QUANT,
+      },
+    });
+  } catch (err) {
+    res.status(500).json({
+      status: "error",
+      message: "Server error. Failed to get QUANT.",
+      error: err.message,
+    });
+  }
+};
